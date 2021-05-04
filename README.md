@@ -35,8 +35,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alperenorhan&show_icons=true&hide_border=true" />
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenorhan&show_icons=true&locale=en&layout=compact" alt="alperenorhan" /></p>
+  <img align="left" alt="Alperen Orhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alperenorhan&show_icons=true&hide_border=true" />
 
 </details>
 
