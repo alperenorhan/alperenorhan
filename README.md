@@ -7,7 +7,7 @@
 ## I'm a Computer Engineering Student!!
 
 - 🌱 I’m currently learning Flutter 🤣
-- 🥅 2022 Goals: I want to become a Flutter developer this year!
+- 🥅 2022 Goals: I want to become a Mobile developer this year!
 - ⚡ Fun fact: I love to listening to music and make social media designs.
 
 ### Connect with me:
