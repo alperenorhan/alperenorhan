@@ -34,6 +34,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/AlperenOrhanAO
-[instagram]: https://instagram.com/ao.psd
+[twitter]: https://twitter.com/alperenorhandev
+[instagram]: https://instagram.com/alperenorhandev
 [linkedin]: https://linkedin.com/in/AlperenOrhan
