@@ -27,13 +27,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenorhan&show_icons=true&locale=en&layout=compact" alt="alperenorhan" /></p>
-
-</details>
-
 [twitter]: https://twitter.com/alperenorhandev
 [instagram]: https://instagram.com/alperenorhandev
 [linkedin]: https://linkedin.com/in/AlperenOrhan
