@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenorhan&label=Profile%20views&color=0e75b6&style=flat" alt="alperenorhan" /> </p>
 
-## I'm a Computer Engineering Student!!
+## I'm a Computer Engineer!!
 
-- 🌱 I’m currently NextJS React Native 🤣
+- 🌱 I’m currently learning NextJS 🤣
 - ⚡ Fun fact: I love to listening to music and make social media designs.
 
 ### Connect with me:
