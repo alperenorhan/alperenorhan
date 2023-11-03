@@ -1,5 +1,11 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="center">Hello 👋, I'm Alperen</h1>
-<h3 align="center">I'm working as Full Stack Developer <a href="https://www.yedas.com">@YEDAS</a></h3>
+<h3 align="center">I'm working as Full Stack Developer <a href="https://www.yedas.com">@YEDAS</a> </h3>
 <p align="center">📫 How to reach me <a href="mailto:alperenorhan5552@gmail.com"><b>alperenorhan5552@gmail.com<b></a></p>
 <p align="left">
   <img
